@@ -36,7 +36,7 @@ This is the third course of the `deep learning specialization` at `Coursera` whi
 
 ## Course summary:
 Khóa học này giúp:
-- Biết cách chẩn đoán lỗi trong hệ thống ML, biết được các hướng xử lý để để hạn chế lỗi xãy ra.
+- Biết cách chẩn đoán lỗi trong hệ thống ML, biết được các hướng xử lý để để hạn chế lỗi xảy ra.
 - Hiểu cách cài đặt thuật toán ML phức tạp, chẳng hạn như train/test không đồng nhất, so sánh với độ chính xác hệ thống so với con người.
 - Biết cách áp dụng phương pháp end-to-end learning, transfer learning, and multi-task learning.
 
