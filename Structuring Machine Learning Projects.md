@@ -45,6 +45,10 @@ Khóa học này giúp:
 
 ## ML Strategy 1:
 ---
+``` 
+Một số chỗ tôi sử dụng dev thay vì validation và ngược lại, bạn đọc có thể hiểu 2 thuật ngữ này đều nói đến một tập data/một bước trong train model.
+```
+
 
 ### Why ML Strategy:
 có rất nhiều ý tưởng về cách cải thiện độ chính xác của hệ thống học sâu của mình:
@@ -70,20 +74,19 @@ Nội dung trong khóa này cung cấp `một số chiến lược` giúp phân 
 ### Single number evaluation metric:
 - Its better and faster to set a single number evaluation metric for your project before you start it.
 
-- Sử dụng Its better and faster to set a single number evaluation metric for your project before you start it.
-
 - Sử dụng precision, recall, và F1.
     - Precision: Tỉ lệ dự đoán đúng của một class trong tất cả `dự đoán` là có của class đó.
     - Recall: Tỉ lệ dự đoán đúng của một class trong tất cả `sự thật` là có của class đó.
     - Accuracy: Tỉ lệ dự đoán đúng trên tất cả data.
     - `F1 = 2 / ((1/P) + (1/R))`
 
+
 ### Satisfying and Optimizing metric: 
 - Lựa chọn Classifier giữa Optimizing và Satisfying
     - Chọn một chỉ số Optimizing duy nhất và quyết định rằng metrics là satisfying.
 ### Train/dev/test distributions:
 - Validation set và test set phải đến từ cùng một phân phối.
-- Validation set và test set để phản ánh đúng dữ liệu dự đoán trong thực tế.
+- Validation set và test set phải phản ánh đúng dữ liệu dự đoán trong thực tế.
 - Setting up the dev set, as well as the validation metric is really defining what target you want to aim at.
 
 ### Size of the dev and test sets:

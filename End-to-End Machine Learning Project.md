@@ -5,21 +5,21 @@ Trong chương này, chúng ta sẽ xem qua một cấu trúc từ đầu đến
 
 Về cơ bản có 8 bước đế thực hiện hoàn chỉnh một dự án AI, tùy vào tình hình hiện tại ta có thể thêm hoặc bớt các phần này:
 
-[1. Look at the big picture.](#1-look-at-the-big-picture)
+* [1. Look at the big picture.](#1-look-at-the-big-picture)
 
-[2. Get the data.](#2-get-data)
+* [2. Get the data.](#2-get-data)
 
-[3. Discover and visualize the data to gain insights.](#3-Discover-and-visualize-the-data-to-gain-insights)
+* [3. Discover and visualize the data to gain insights.](#3-Discover-and-visualize-the-data-to-gain-insights)
 
-[4. Prepare the data for Machine Learning algorithms.](#4-Prepare-the-data-for-Machine-Learning-algorithms)
+* [4. Prepare the data for Machine Learning algorithms.](#4-Prepare-the-data-for-Machine-Learning-algorithms)
 
-[5. Select a model and train it.](#5-Select-a-model-and-train-it)
+* [5. Select a model and train it.](#5-Select-a-model-and-train-it)
 
-[6. Fine-tune your model.](#6-Fine-tune-your-model)
+* [6. Fine-tune your model.](#6-Fine-tune-your-model)
 
-[7. Present your solution.]()
+* [7. Present your solution.](./)
 
-[8. Launch, monitor, and maintain your system.](#7-Launch,-monitor,-and-maintain-your-system)
+* [8. Launch, monitor, and maintain your system.](#7-Launch,-monitor,-and-maintain-your-system)
 
 ![image](image/ML_pipeline.png)
 ## 1. Look at the big picture:  
